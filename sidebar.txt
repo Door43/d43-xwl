@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xwl:home|Door43 (xwl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xwl|d43-xwl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xwl/archive/master.zip|d43-xwl.zip]]
+
+**Recent Changes**
+{{changes>ns = xwl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xwl|Ethnologue data]]
+
